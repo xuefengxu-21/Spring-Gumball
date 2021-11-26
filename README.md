@@ -10,5 +10,8 @@ Created Action:
 
 ![](images/Part1.1.png)
 ![](images/Part1.2.png)
+![](images/Part1.3.png)
 
 ## CI Workflow (Part 2)
+a. install and init cloud SKD:
+![](images/2.1.png)
